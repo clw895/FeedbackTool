@@ -1,0 +1,3 @@
+/Users/cweathers/Code/Feedback/obj/Debug/netstandard2.0/Feedback.csproj.CoreCompileInputs.cache
+/Users/cweathers/Code/Feedback/obj/Debug/netstandard2.0/Feedback.AssemblyInfoInputs.cache
+/Users/cweathers/Code/Feedback/obj/Debug/netstandard2.0/Feedback.AssemblyInfo.cs

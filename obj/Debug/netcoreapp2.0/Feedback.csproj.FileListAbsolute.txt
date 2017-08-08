@@ -1,0 +1,12 @@
+/Users/cweathers/Code/Feedback/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/cweathers/Code/Feedback/bin/Debug/netcoreapp2.0/Feedback.deps.json
+/Users/cweathers/Code/Feedback/bin/Debug/netcoreapp2.0/Feedback.runtimeconfig.json
+/Users/cweathers/Code/Feedback/bin/Debug/netcoreapp2.0/Feedback.runtimeconfig.dev.json
+/Users/cweathers/Code/Feedback/bin/Debug/netcoreapp2.0/Feedback.dll
+/Users/cweathers/Code/Feedback/bin/Debug/netcoreapp2.0/Feedback.pdb
+/Users/cweathers/Code/Feedback/obj/Debug/netcoreapp2.0/Feedback.csproj.CoreCompileInputs.cache
+/Users/cweathers/Code/Feedback/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Users/cweathers/Code/Feedback/obj/Debug/netcoreapp2.0/Feedback.AssemblyInfoInputs.cache
+/Users/cweathers/Code/Feedback/obj/Debug/netcoreapp2.0/Feedback.AssemblyInfo.cs
+/Users/cweathers/Code/Feedback/obj/Debug/netcoreapp2.0/Feedback.dll
+/Users/cweathers/Code/Feedback/obj/Debug/netcoreapp2.0/Feedback.pdb
